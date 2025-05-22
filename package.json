@@ -1,0 +1,27 @@
+{
+	"name": "course-nodejs-twitter-pet",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"dev": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/E-Martynenko1982/course-nodejs-twitter-pet.git"
+	},
+	"keywords": [],
+	"author": "Evhenii Martynenko",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/E-Martynenko1982/course-nodejs-twitter-pet/issues"
+	},
+	"homepage": "https://github.com/E-Martynenko1982/course-nodejs-twitter-pet#readme",
+	"description": "",
+	"dependencies": {
+		"express": "^5.1.0"
+	},
+	"devDependencies": {
+		"nodemon": "^3.1.10"
+	}
+}
