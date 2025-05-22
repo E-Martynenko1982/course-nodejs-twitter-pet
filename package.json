@@ -18,10 +18,10 @@
 	},
 	"homepage": "https://github.com/E-Martynenko1982/course-nodejs-twitter-pet#readme",
 	"description": "",
-	"dependencies": {
-		"express": "^5.1.0"
-	},
 	"devDependencies": {
 		"nodemon": "^3.1.10"
+	},
+	"dependencies": {
+		"express": "^4.21.2"
 	}
 }
